@@ -1,0 +1,9 @@
+{
+  "name": "bower-registry-heroku",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bower-registry": "0.1.4",
+    "redis":"0.8.4"
+  }
+}
